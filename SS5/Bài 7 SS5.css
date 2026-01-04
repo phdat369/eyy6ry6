@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+header {
+    background-color: #f4f4f9;
+}
+.tieude {
+    color: #1f5fff;
+}
+.noidung {
+    color: #1f5fff;
+    font-style: italic;
+}
+.caccoso {
+    color: #1e90ff;
+}
+.cs1 {
+    color: red;
+}
+.cs2 {
+    font-style: italic;
+}
+.cs3 {
+    text-decoration: underline;
+}
+.cs4 {
+    font-weight: bold;
+}

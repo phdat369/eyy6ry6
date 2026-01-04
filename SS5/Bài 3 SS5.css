@@ -1,0 +1,18 @@
+header {
+    background-color: #f4f4f9;
+}
+main {
+    text-align: center;
+}
+.tieude {
+    color: #1e90ff;
+}
+.one {
+    text-decoration: line-through underline;
+}
+.two {
+    font-weight: bold;
+}
+.four {
+    letter-spacing: 2px;
+}

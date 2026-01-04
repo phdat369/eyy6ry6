@@ -1,0 +1,15 @@
+h2 {
+    color: #1e90ff;
+    text-align: center;
+}
+main {
+    text-align: center;
+    background-color: white;
+}
+.boder {
+    border-color: #1e90ff;
+}
+.nut {
+    background-color: #00bfff;
+    color: white;
+}

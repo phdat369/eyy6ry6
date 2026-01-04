@@ -1,0 +1,10 @@
+h2 {
+    color: #1e90ff;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+main:hover {
+    background-color: #e6f7ff;
+} 
