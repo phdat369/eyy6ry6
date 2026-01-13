@@ -1,0 +1,47 @@
+h1 {
+    background-color: #fde68a;
+    color: #78350f;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #78350f;
+    font-size: 18px;
+}
+.taskbar {
+    text-align: center;
+    background-color: #fed7aa;
+    font-weight: bold;
+}
+body {
+    font-family: cursive;
+    background-color: #fff7ed;
+}
+.hinhanh {
+    text-align: center;
+}
+h2 {
+    color: #78350f;
+}
+.gioithieu {
+    background-color: white;
+}
+.doingu {
+    background-color: white;
+}
+.uytin {
+    background-color: white;
+}
+footer {
+    text-align: center;
+    background-color: #78350f;
+    color: white;
+}
+a:hover {
+    background-color: #c2410c;
+    color: white;
+}
+ol > li:hover {
+    color: yellow;
+    background-color: #78350f;
+}
